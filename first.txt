@@ -1,1 +1,6 @@
 First file for Git.
+
+git add "file name"
+git add . // all file in a directory
+
+git commit
