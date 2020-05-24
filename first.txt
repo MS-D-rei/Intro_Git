@@ -8,3 +8,10 @@ git commit
 git rm // remove xxx
 
 git status
+
+git log
+git log --oneline // show in one line
+git log -p xxx // show diff of xxx
+git log -n x // show the latest x times logs
+
+git diff
