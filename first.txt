@@ -4,3 +4,5 @@ git add "file name"
 git add . // all file in a directory
 
 git commit
+
+git commit
