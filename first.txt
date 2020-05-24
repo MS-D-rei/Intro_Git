@@ -6,3 +6,5 @@ git add . // all file in a directory
 git commit
 
 git rm // remove xxx
+
+git status
